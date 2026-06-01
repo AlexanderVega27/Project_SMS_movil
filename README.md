@@ -1,4 +1,4 @@
-# Sistema de Monitoreo y Notificaciones Transaccionales (SMS / WhatsApp)
+# Sistema de Monitoreo y Notificaciones Transaccionales (SMS)
 
 ## 📋 Descripción del Proyecto
 Este proyecto consiste en el codiseño e implementación de un sistema optimizado de notificaciones transaccionales mediante mensajería masiva (SMS Gateway). Está enfocado en mejorar la trazabilidad, asegurar la entrega programada de alertas del servicio logístico y ofrecer una arquitectura robusta para el monitoreo de tareas en tiempo real.
